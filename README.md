@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome!</h1>
+    <h1>𝐖𝐄𝐋𝐂𝐎𝐌𝐄</h1>
   
   <p>Thank you for taking a look at my work. I hope you liked what you saw.</p>    
   <h2>About Me</h2>    
