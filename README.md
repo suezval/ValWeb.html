@@ -6,6 +6,7 @@
         body {
             background: linear-gradient(135deg, #000000, #8b0000);
             color: white;
+            text-align: center;
             font-family: Arial, sans-serif;
             padding: 30px;
         }
