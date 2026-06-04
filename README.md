@@ -8,7 +8,7 @@
             color: white;
             font-family: Arial, sans-serif;
             text-align: center;
-            padding: 50px;
+            padding: 30px;
         }
     </style>
 </head>
