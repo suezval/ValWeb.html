@@ -2,6 +2,15 @@
 <html>
 <head>    
     <title>ValWeb</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+    </style>
 </head>
 <body>
     <h1>Welcome!</h1>
