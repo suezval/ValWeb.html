@@ -4,7 +4,7 @@
     <title>ValWeb</title>
     <style>
         body {
-            background-color: black;
+            background: linear-gradient(135deg, #000000, #8b0000);
             color: white;
             font-family: Arial, sans-serif;
             text-align: center;
